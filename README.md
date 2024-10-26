@@ -23,7 +23,7 @@ Antes de começar, você precisa ter instalado em sua máquina:
 -   Após a execução, você pode acessar a documentação Swagger da API na seguinte URL:
     -   http://localhost:7020/swagger/index.html
 
-3. **Fase 2: Refinamento:**
+### 3. Fase 2: Refinamento:###
 
 -   Quais campos serão adicionados?
 -   Vincularemos cada tarefa a um usuário?
@@ -35,7 +35,7 @@ Antes de começar, você precisa ter instalado em sua máquina:
 -   Quais tipos de testes você considera essenciais para garantir a qualidade do produto?
 -   Que tipo de documentação você acha mais útil para usuários e desenvolvedores?
 
-3. **Fase 3: Final:**
+### 4.Fase 3: Final: ###
 
 ### Possíveis Melhorias e Considerações
 

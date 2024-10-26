@@ -21,7 +21,7 @@ Antes de começar, você precisa ter instalado em sua máquina:
 2. **Acessar a API:**
 
 -   Após a execução, você pode acessar a documentação Swagger da API na seguinte URL:
-    -   [http://localhost:7020/swagger/index.html]
+    -   http://localhost:7020/swagger/index.html
 
 3. **Fase 2: Refinamento:**
 
